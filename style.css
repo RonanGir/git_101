@@ -1,0 +1,22 @@
+body {
+	margin:0;
+	font-family: Helvetica;
+}
+
+#container {
+	display: flex;
+	position: relative;
+	background-image: url(logo_Ronan_Girault.png);
+	justify-content: center;
+	height: 100vh
+	background-size: cover;
+	padding: 200px;
+
+}
+
+.btn-twitter {
+	color: #ffffff;
+	background-color: #d23333;
+	position: absolute;
+	bottom:20px;
+}
